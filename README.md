@@ -2,6 +2,8 @@
 
 **Raydium Mass Sniper** is the ultimate solution for high-speed, mass sniping on Raydium. This powerful tool allows you to execute buy and sell transactions across multiple wallets with ease, including support for PumpFun migrated tokens. Designed for maximum flexibility, it supports random buy amounts per wallet and custom delays, making it one of the most advanced tools available for Raydium mass sniping.
 
+![Raydium Mass Sniper](https://github.com/solanaapisdev/raydium-mass-sniper/blob/main/raydium-mass-sniper.png)
+
 ## Key Features
 
 - **Create Keypairs**: Automatically generate keypairs for as many wallets as you need.
